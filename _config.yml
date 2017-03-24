@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Dony Purnama - Web Developer
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: dony.purnama@gmail.com
+copyright_name: donypurnama/Project/bits
+description: "I'm Dony Purnama, a web designer, developer, and writer. More about me and my work below!!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: donypurnama
+github_username:  donypurnama
+facebook_username:  http://facebook.com/donypurnama
+email_username:  dony.purnama@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

@@ -1,14 +1,14 @@
 # Site settings
-title: Dony Purnama - Web Developer
-header-img: img/home-bg.jpg
+title: Dony Purnama | Web Developer
+header-img: img/indo-home-bg.jpg
 email: dony.purnama@gmail.com
-copyright_name: DONY PURNAMA
-description: "I'm Dony Purnama, a web developer, and writer. More about me and my work below!!"
+copyright_name: Dony Purnama
+description: "I'm a location-independent web developer, originally from Tasikmalaya West Java. Tie the science with writing!!"
 baseurl: ""
 url: "http://donypurnama.github.io/"
 twitter_username: donypurnama
 github_username:  donypurnama
-facebook_username:  http://facebook.com/donypurnama
+facebook_username:  donypurnama
 email_username:  dony.purnama@gmail.com
 
 # Google Analytics

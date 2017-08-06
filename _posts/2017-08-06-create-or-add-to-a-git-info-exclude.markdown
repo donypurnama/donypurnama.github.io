@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Create or add to a .git/info/exclude file."
-date:       2014-09-18 12:00:00
-author:     "Start Bootstrap"
+date:       2017-08-06 17:58:00
+author:     "Dony Purnama"
 header-img: "img/terminal-osx.jpg"
 ---
 

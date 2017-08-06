@@ -13,11 +13,11 @@ header-img: "img/post-bg-06.jpg"
 
 <p>2. Open Terminal.</p>
 
-<p> 3. Change the current working directory to your local project.</p>
+<p>3. Change the current working directory to your local project.</p>
 
-<p> 4. Initialize the local directory as a Git repository.
+<p>4. Initialize the local directory as a Git repository.
     <blockquote>$ git init</blockquote>
-  </p>
+</p>
 
 <p>5. Add the files in your new local repository. This stages them for the first commit.
     <blockquote>
